@@ -1,2 +1,2 @@
-# mongoDB
-MongoDB, Express.js, React, Node.js project
+# TBD journal project
+Learning to utilize MongoDB, Express.js, React and Node.js
